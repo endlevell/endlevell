@@ -19,3 +19,20 @@ I've learned some languages and used decent tools. Here are the languages and to
 - Visual Studio Code (for **Programming** purposes)
 - Neovim (for **Programming** purposes)
 - Obsidian (for **Task Management**)
+
+---
+
+### 🖥️ Gadget:
+- Laptop: **Lenovo Thinkpad T460P**
+  - OS: **Seraphim Linux** (DIY Ubuntu-based)
+  - RAM: **16GB DDR4 SODIMM**
+  - SSD: **256GB SATA**
+- Phone: **Poco M5**
+  - OS: **Pixel OS** (AOSP-based)
+  - RAM: 4GB
+ 
+---
+
+### 👤 More Info
+You can find more information about me below:
+- [Website](https://mqverick.lol)
