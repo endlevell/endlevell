@@ -24,7 +24,7 @@ I've learned some languages and used decent tools. Here are the languages and to
 
 ### 🖥️ Gadget:
 - Laptop: **Lenovo Thinkpad T460P**
-  - OS: **Seraphim Linux** (DIY Ubuntu-based)
+  - OS: **Arch Linux** (I use Arch BTW)
   - RAM: **16GB DDR4 SODIMM**
   - SSD: **256GB SATA**
 - Phone: **Poco M5**
