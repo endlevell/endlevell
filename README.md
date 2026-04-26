@@ -1,8 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:a855f7&height=220&section=header&text=Amanaii&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Low-Level%20Programming%20%E2%80%A2%20Software%20Engineering%20%E2%80%A2%20Cyber%20Security&descAlignY=58&descSize=16" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=720&lines=Tech+Enthusiast;Low-Level+Programming;Software+Engineering;Cyber+Security;OS+Development;Minecraft+Plugin+Development" />
+# Hi, I'm Amanaii 👋
 
 <br/>
 
