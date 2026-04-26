@@ -1,7 +1,7 @@
 
 <div align="center">
 
-## About Me
+# Hi, I'm Amanaii 👋
 <img src="https://komarev.com/ghpvc/?username=amanaii&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/github/followers/amanaii?style=for-the-badge&color=7c3aed&label=FOLLOWERS" />
 <img src="https://img.shields.io/github/stars/amanaii?style=for-the-badge&color=7c3aed&label=STARS" />
