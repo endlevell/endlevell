@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm **Maverick Liemann**, also known as **Amanaii**.
+I'm **Alhamdi Fitriansyah**, also known as **Amanaii**.
 
 I am a tech enthusiast interested in **low-level programming**, **software engineering**, **cyber security**, and **operating system development**. I enjoy learning how things work beneath the surface, building practical tools, experimenting with systems, and exploring software from both engineering and security perspectives.
 
