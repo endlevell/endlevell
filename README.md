@@ -1,21 +1,10 @@
-<div align="center">
-
-# Hi, I'm Amanaii 👋
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=amanaii&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/amanaii?style=for-the-badge&color=7c3aed&label=FOLLOWERS" />
-<img src="https://img.shields.io/github/stars/amanaii?style=for-the-badge&color=7c3aed&label=STARS" />
-
-</div>
-
-<br/>
 
 <div align="center">
 
 ## About Me
-
+<img src="https://komarev.com/ghpvc/?username=amanaii&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/amanaii?style=for-the-badge&color=7c3aed&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/amanaii?style=for-the-badge&color=7c3aed&label=STARS" />
 </div>
 
 <img align="right" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanaii&layout=compact&theme=tokyonight&hide_border=true&border_radius=16" />
