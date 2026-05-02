@@ -6,9 +6,6 @@
 <img src="https://img.shields.io/github/followers/amanaii?style=for-the-badge&color=7c3aed&label=FOLLOWERS" />
 <img src="https://img.shields.io/github/stars/amanaii?style=for-the-badge&color=7c3aed&label=STARS" />
 </div>
-
-<img align="right" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanaii&layout=compact&theme=tokyonight&hide_border=true&border_radius=16" />
-
 I'm **Alhamdi Fitriansyah**, also known as **Amanaii**.
 
 I am a tech enthusiast interested in **low-level programming**, **software engineering**, **cyber security**, and **operating system development**. I enjoy learning how things work beneath the surface, building practical tools, experimenting with systems, and exploring software from both engineering and security perspectives.
@@ -16,9 +13,6 @@ I am a tech enthusiast interested in **low-level programming**, **software engin
 <br clear="right"/>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a855f7&height=2&section=header" />
-
 ## Tech Stack
 
 </div>
