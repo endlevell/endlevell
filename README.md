@@ -1,4 +1,4 @@
-# Hello, I'm Amanaii 👋
+# 👋 Hi, I'm Amanaii
 
 I am a systems enthusiast and developer focused on **low-level programming**, **operating system internals**, and **security**. I enjoy building efficient tools and exploring the architecture of software from the kernel up.
 
@@ -10,7 +10,7 @@ I am a systems enthusiast and developer focused on **low-level programming**, **
 
 ---
 
-### 🚀 Projects
+### Projects
 
 *   **Luna** – High-resolution music downloader (Flutter & Material 3).
 *   **WaveDL** – Memory-efficient terminal music downloader (Rust).
@@ -19,7 +19,7 @@ I am a systems enthusiast and developer focused on **low-level programming**, **
 
 ---
 
-### 🛠️ Technical Stack
+### Technical Stack
 
 **Languages**  
 `C` `C++` `Rust` `Go` `Python` `Dart` `Kotlin` `Java` `Javascript`
@@ -35,17 +35,7 @@ I am a systems enthusiast and developer focused on **low-level programming**, **
 
 ---
 
-### 💻 Setup
-
-| Device | Specification | OS |
-| :--- | :--- | :--- |
-| **ThinkPad T460p** | i7-6820HQ / 16GB RAM | Arch / CachyOS |
-| **POCO F3** | 8GB / 256GB | PixelOS (AOSP) |
-| **Workspace** | Neovim / Hyprland | Minimalist |
-
----
-
-### 📊 Activity
+### Activity
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amanaii&theme=tokyo-night&hide_border=true&area=true&color=7c3aed&bg_color=0d1117" />
@@ -53,7 +43,7 @@ I am a systems enthusiast and developer focused on **low-level programming**, **
 
 ---
 
-### 🔗 Connect
+### Connect
 
 - **Website:** [amanaii.dev](https://amanaii.dev)
 - **Email:** [hello@amanaii.dev](mailto:hello@amanaii.dev)
