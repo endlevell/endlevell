@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=140&section=header&text=shaiqie&fontSize=40&fontColor=ffffff&fontAlignY=55&animation=fadeIn" />
-</div>
+
 
 <h1 align="center">👋 Hi, I'm Alhamdi Fitriansyah</h1>
 
