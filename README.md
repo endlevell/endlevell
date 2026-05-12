@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=140&section=header&text=shaiqie&fontSize=40&fontColor=ffffff&fontAlignY=55&animation=fadeIn" />
-</div>
+
 
 <h1 align="center">👋 Hi, I'm Alhamdi Fitriansyah</h1>
 
@@ -98,8 +96,4 @@ const ME: Developer = Developer {
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0d1117" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" />
 </div>
