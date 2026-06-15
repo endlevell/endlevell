@@ -31,10 +31,11 @@ You can find me at [shaiqie.dev](https://shaiqie.dev) or reach me by email at [h
 ---
 
 ### Projects
-
+- **[Swift Launcher](https://github.com/swiftforyou/SwiftLauncher)** - Modern, fast Minecraft launcher built with Rust and Iced. 
 - **[Wave](https://github.com/shaiqie/Wave)** — A Rust-powered color palette generator that turns your wallpaper into a system-wide visual identity.
+- **[Beartrap](https://github.com/shaiqie/Beartrap)** - Beartrap is a modular Discord security bot that catches suspicious automation.
 - **[Krate](https://github.com/shaiqie/Krate)** — A lightweight CLI tool to search, download, and manage Minecraft server plugins directly from your terminal.
-- **[OpenWhatsapp](https://github.com/shaiqie/OpenWhatsapp)** — An open source, fast, and lightweight WhatsApp webview client for Linux written in C.
+- **[OpenWhatsapp](https://github.com/shaiqie/OpenWhatsapp)** — An open source, fast, and lightweight WhatsApp webview client for Linux written in Rust.
 
 ---
 
