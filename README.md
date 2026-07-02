@@ -48,7 +48,7 @@ You can find me at [shaiqie.dev](https://shaiqie.dev) or reach me by email at [h
   <a href="mailto:hello@shaiqie.dev">
     <img src="https://img.shields.io/badge/Email-hello@shaiqie.dev-00c9a7?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" />
   </a>
-  <a href="https://github.com/shaiqie">
-    <img src="https://img.shields.io/github/followers/shaiqie?style=flat-square&color=00c9a7&labelColor=0d1117&logo=github&label=Follow" />
+  <a href="https://github.com/endlevell">
+    <img src="https://img.shields.io/github/followers/endlevell?style=flat-square&color=00c9a7&labelColor=0d1117&logo=github&label=Follow" />
   </a>
 </p>
