@@ -1,18 +1,25 @@
-## Hi, I'm Endlevel.
+<div align="center">
 
-I'm a systems enthusiast and developer with a focus on **low-level programming**, **operating system internals**, and **security**. I enjoy building efficient tools and exploring the architecture of software from the kernel up — from userspace all the way down.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m endlevell"></picture>
 
-I work primarily in [`C`](https://en.wikipedia.org/wiki/C_(programming_language)), [`Rust`](https://www.rust-lang.org/), and [`Go`](https://go.dev/), and I've built several projects including [Wave](https://github.com/shaiqie/Wave), a Rust-powered color palette generator that turns your wallpaper into a system-wide visual identity, [Krate](https://github.com/shaiqie/Krate), a CLI tool for managing Minecraft server plugins from your terminal, and [OpenWhatsapp](https://github.com/shaiqie/OpenWhatsapp), A native Linux desktop client for WhatsApp Web, built with Rust, GTK4, and WebKitGTK. 
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="27.254%" alt=""></picture><a href="https://t.me/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18.122%" alt="telegram"></picture></a><a href="https://discord.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="16.552%" alt="discord"></picture></a><a href="https://x.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="10.814%" alt="x"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="27.254%" alt=""></picture>
 
-Outside of my own projects I enjoy tinkering with OS internals, writing tooling that makes the developer experience faster and leaner, and exploring security research. My daily environment is [Arch Linux (CachyOS)](https://cachyos.org/) with [Hyprland](https://hyprland.org/) and [Neovim](https://neovim.io/).
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
-You can find me at [endlevel.tech](https://endlevel.tech) or reach me by email at [me@endlevel,tech](mailto:me@endlevel.tech).
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
----
+<a href="https://github.com/endlevell/OpenWhatsapp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-openwhatsapp-dark.svg"><img src="assets/project-openwhatsapp-light.svg" width="49%" alt="OpenWhatsapp"></picture></a>&nbsp;<a href="https://github.com/endlevell/hyprshell"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-hyprshell-dark.svg"><img src="assets/project-hyprshell-light.svg" width="49%" alt="hyprshell"></picture></a>
 
-### Projects
-- **[Swift Launcher](https://github.com/swiftforyou/SwiftLauncher)** - Modern, fast Minecraft launcher built with Rust and Iced. 
-- **[Wave](https://github.com/shaiqie/Wave)** — A Rust-powered color palette generator that turns your wallpaper into a system-wide visual identity.
-- **[Beartrap](https://github.com/shaiqie/Beartrap)** - Beartrap is a modular Discord security bot that catches suspicious automation.
-- **[Krate](https://github.com/shaiqie/Krate)** — A lightweight CLI tool to search, download, and manage Minecraft server plugins directly from your terminal.
-- **[OpenWhatsapp](https://github.com/shaiqie/OpenWhatsapp)** — An open source, fast, and lightweight WhatsApp webview client for Linux written in Rust.
+<a href="https://github.com/endlevell/monowm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-monowm-dark.svg"><img src="assets/project-monowm-light.svg" width="49%" alt="monowm"></picture></a>&nbsp;<a href="https://github.com/endlevell/endlevell"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-endlevell-dark.svg"><img src="assets/project-endlevell-light.svg" width="49%" alt="endlevell"></picture></a>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
+
+<a href="https://endlevel.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/endlevell?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
+
+<a href="https://metawka.github.io/expressive-profile/?from=endlevell"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
+
+</div>
