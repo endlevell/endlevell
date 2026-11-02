@@ -1,0 +1,381 @@
+{
+ "key": "d56fad46",
+ "stars": 50,
+ "contributions": 313,
+ "repos": 22,
+ "followers": 16,
+ "languages": [
+  [
+   "QML",
+   1344422
+  ],
+  [
+   "TypeScript",
+   547258
+  ],
+  [
+   "HTML",
+   379244
+  ],
+  [
+   "C",
+   378923
+  ],
+  [
+   "Rust",
+   348636
+  ],
+  [
+   "Astro",
+   58141
+  ],
+  [
+   "Lua",
+   20249
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 12,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 1,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 2,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 6,
+  "longest": 7
+ },
+ "pins": [
+  {
+   "name": "SwiftLauncher",
+   "url": "https://github.com/swiftforyou/SwiftLauncher",
+   "text": "Modern, fast Minecraft launcher built with Rust and Iced.",
+   "fork": false,
+   "stars": 28,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "OpenWhatsapp",
+   "url": "https://github.com/endlevell/OpenWhatsapp",
+   "text": "A native Linux desktop client for WhatsApp Web, built with Rust, GTK4, and WebKitGTK.",
+   "fork": false,
+   "stars": 14,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "monowm",
+   "url": "https://github.com/endlevell/monowm",
+   "text": "A lightweight Wayland compositor with dwindle tiling and infinite canvas workspaces.",
+   "fork": false,
+   "stars": 7,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "mudasmart",
+   "url": "https://github.com/endlevell/mudasmart",
+   "text": "Aplikasi absensi QR untuk SMA Muhammadiyah 2 Tangerang.",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "quickfetch",
+   "url": "https://github.com/endlevell/quickfetch",
+   "text": "A small, fast Linux system-information utility written in C.",
+   "fork": false,
+   "stars": 2,
+   "language": "C",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "OpenWhatsapp",
+   "url": "https://github.com/endlevell/OpenWhatsapp",
+   "text": "A native Linux desktop client for WhatsApp Web, built with Rust, GTK4, and WebKitGTK.",
+   "fork": false,
+   "stars": 14,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "hyprshell",
+   "url": "https://github.com/endlevell/hyprshell",
+   "text": "My personal dotfiles used within my Arch Linux",
+   "fork": false,
+   "stars": 8,
+   "language": "QML",
+   "topics": []
+  },
+  {
+   "name": "monowm",
+   "url": "https://github.com/endlevell/monowm",
+   "text": "A lightweight Wayland compositor with dwindle tiling and infinite canvas workspaces.",
+   "fork": false,
+   "stars": 7,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "endlevell",
+   "url": "https://github.com/endlevell/endlevell",
+   "text": "README for my Github profile",
+   "fork": false,
+   "stars": 4,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Wave",
+   "url": "https://github.com/endlevell/Wave",
+   "text": "A blazingly fast, Rust-powered color palette generator that turns your wallpaper into a system-wide visual identity.",
+   "fork": false,
+   "stars": 3,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "YAKU",
+   "url": "https://github.com/endlevell/YAKU",
+   "text": "Yet Another Kiosk Unlocker is a LSPosed module that allows you to break freely from the kiosk exam screen lock",
+   "fork": false,
+   "stars": 3,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "quickfetch",
+   "url": "https://github.com/endlevell/quickfetch",
+   "text": "A small, fast Linux system-information utility written in C.",
+   "fork": false,
+   "stars": 2,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "compact",
+   "url": "https://github.com/endlevell/compact",
+   "text": "Maximum token efficiency for AI coding agents and API pipelines.",
+   "fork": false,
+   "stars": 2,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "typewriter",
+   "url": "https://github.com/endlevell/typewriter",
+   "text": "A fast, polished terminal typing test built in Rust.",
+   "fork": false,
+   "stars": 2,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "Krate",
+   "url": "https://github.com/endlevell/Krate",
+   "text": "A lightweight, blazing-fast CLI tool to search, download, and manage Minecraft server plugins directly from your terminal.",
+   "fork": false,
+   "stars": 2,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "nixfind",
+   "url": "https://github.com/endlevell/nixfind",
+   "text": "A small CLI for searching NixOS packages (and related options) from your terminal, backed by the same data as https://search.nixos.org.",
+   "fork": false,
+   "stars": 1,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "website",
+   "url": "https://github.com/endlevell/website",
+   "text": "A personal Astro-based portofolio, and journal website.",
+   "fork": false,
+   "stars": 1,
+   "language": "Astro",
+   "topics": []
+  },
+  {
+   "name": "Beartrap",
+   "url": "https://github.com/endlevell/Beartrap",
+   "text": "Beartrap is a modular Discord security bot that catches suspicious automation quietly, logs useful evidence, and keeps normal members out of the blast radius. It does not arrive swinging a ban hammer. It walks in, adjusts its little security clipboard, and starts wiring traps.",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "android_hardware_lineage_compat",
+   "url": "https://github.com/endlevell/android_hardware_lineage_compat",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "android_hardware_mediatek",
+   "url": "https://github.com/endlevell/android_hardware_mediatek",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "rock-local-manifests",
+   "url": "https://github.com/endlevell/rock-local-manifests",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "proprietary_vendor_xiaomi_rock",
+   "url": "https://github.com/endlevell/proprietary_vendor_xiaomi_rock",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Makefile",
+   "topics": []
+  },
+  {
+   "name": "kernel_xiaomi_rock",
+   "url": "https://github.com/endlevell/kernel_xiaomi_rock",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "device_xiaomi_rock",
+   "url": "https://github.com/endlevell/device_xiaomi_rock",
+   "text": "Device Tree Redmi 11 prime 4G & Poco M5 | !!! force push , and merge",
+   "fork": true,
+   "stars": 0,
+   "language": "Makefile",
+   "topics": []
+  },
+  {
+   "name": "mono-dotfiles",
+   "url": "https://github.com/endlevell/mono-dotfiles",
+   "text": "A special, and hand-made Mono configs (dotfiles) for my own personal purpose.",
+   "fork": false,
+   "stars": 0,
+   "language": "Lua",
+   "topics": []
+  },
+  {
+   "name": "harmonica",
+   "url": "https://github.com/endlevell/harmonica",
+   "text": "Dynamic-island-style desktop shell for Hyprland on NixOS.",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "mudasmart",
+   "url": "https://github.com/endlevell/mudasmart",
+   "text": "Aplikasi absensi QR untuk SMA Muhammadiyah 2 Tangerang.",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  }
+ ]
+}

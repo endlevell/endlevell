@@ -8,9 +8,11 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/endlevell/OpenWhatsapp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-openwhatsapp-dark.svg"><img src="assets/project-openwhatsapp-light.svg" width="49%" alt="OpenWhatsapp"></picture></a>&nbsp;<a href="https://github.com/endlevell/hyprshell"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-hyprshell-dark.svg"><img src="assets/project-hyprshell-light.svg" width="49%" alt="hyprshell"></picture></a>
+<a href="https://github.com/swiftforyou/SwiftLauncher"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-swiftlauncher-dark.svg"><img src="assets/project-swiftlauncher-light.svg" width="49%" alt="SwiftLauncher"></picture></a>&nbsp;<a href="https://github.com/endlevell/OpenWhatsapp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-openwhatsapp-dark.svg"><img src="assets/project-openwhatsapp-light.svg" width="49%" alt="OpenWhatsapp"></picture></a>
 
-<a href="https://github.com/endlevell/monowm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-monowm-dark.svg"><img src="assets/project-monowm-light.svg" width="49%" alt="monowm"></picture></a>&nbsp;<a href="https://github.com/endlevell/endlevell"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-endlevell-dark.svg"><img src="assets/project-endlevell-light.svg" width="49%" alt="endlevell"></picture></a>
+<a href="https://github.com/endlevell/monowm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-monowm-dark.svg"><img src="assets/project-monowm-light.svg" width="49%" alt="monowm"></picture></a>&nbsp;<a href="https://github.com/endlevell/mudasmart"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-mudasmart-dark.svg"><img src="assets/project-mudasmart-light.svg" width="49%" alt="mudasmart"></picture></a>
+
+<a href="https://github.com/endlevell/quickfetch"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-quickfetch-dark.svg"><img src="assets/project-quickfetch-light.svg" width="49%" alt="quickfetch"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
