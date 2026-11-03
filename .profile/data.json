@@ -1,5 +1,5 @@
 {
- "key": "69c9708a",
+ "key": "cbb8b609",
  "stars": 50,
  "contributions": 313,
  "repos": 22,
@@ -141,7 +141,7 @@
    "url": "https://github.com/swiftforyou/SwiftLauncher",
    "text": "Modern, fast Minecraft launcher built with Rust and Iced.",
    "fork": false,
-   "stars": 29,
+   "stars": 28,
    "language": "Rust",
    "topics": []
   },
