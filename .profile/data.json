@@ -1,9 +1,9 @@
 {
- "key": "116f0d87",
+ "key": "ca49c49",
  "stars": 50,
  "contributions": 313,
  "repos": 22,
- "followers": 16,
+ "followers": 17,
  "languages": [
   [
    "QML",
@@ -141,7 +141,7 @@
    "url": "https://github.com/swiftforyou/SwiftLauncher",
    "text": "Modern, fast Minecraft launcher built with Rust and Iced.",
    "fork": false,
-   "stars": 28,
+   "stars": 29,
    "language": "Rust",
    "topics": []
   },
