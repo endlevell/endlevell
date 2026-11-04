@@ -1,9 +1,9 @@
 {
- "key": "ce881fa0",
- "stars": 51,
+ "key": "be7bf142",
+ "stars": 52,
  "contributions": 314,
  "repos": 23,
- "followers": 18,
+ "followers": 19,
  "languages": [
   [
    "QML",
@@ -154,7 +154,7 @@
    "url": "https://github.com/endlevell/OpenWhatsapp",
    "text": "A native Linux desktop client for WhatsApp Web, built with Rust, GTK4, and WebKitGTK.",
    "fork": false,
-   "stars": 14,
+   "stars": 15,
    "language": "Rust",
    "topics": []
   },
@@ -192,7 +192,7 @@
    "url": "https://github.com/endlevell/OpenWhatsapp",
    "text": "A native Linux desktop client for WhatsApp Web, built with Rust, GTK4, and WebKitGTK.",
    "fork": false,
-   "stars": 14,
+   "stars": 15,
    "language": "Rust",
    "topics": []
   },
