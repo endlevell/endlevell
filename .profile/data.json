@@ -1,9 +1,9 @@
 {
- "key": "babd57f9",
- "stars": 54,
+ "key": "1700b05c",
+ "stars": 55,
  "contributions": 313,
  "repos": 23,
- "followers": 20,
+ "followers": 21,
  "languages": [
   [
    "QML",
@@ -133,9 +133,13 @@
    {
     "c": 0,
     "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
     "today": true
    },
-   null,
    null
   ]
  ],
@@ -167,7 +171,7 @@
    "url": "https://github.com/endlevell/monowm",
    "text": "A lightweight Wayland compositor with dwindle tiling and infinite canvas workspaces.",
    "fork": false,
-   "stars": 7,
+   "stars": 8,
    "language": "C",
    "topics": []
   },
@@ -201,21 +205,21 @@
    "topics": []
   },
   {
+   "name": "monowm",
+   "url": "https://github.com/endlevell/monowm",
+   "text": "A lightweight Wayland compositor with dwindle tiling and infinite canvas workspaces.",
+   "fork": false,
+   "stars": 8,
+   "language": "C",
+   "topics": []
+  },
+  {
    "name": "hyprshell",
    "url": "https://github.com/endlevell/hyprshell",
    "text": "My personal dotfiles used within my Arch Linux",
    "fork": false,
    "stars": 8,
    "language": "QML",
-   "topics": []
-  },
-  {
-   "name": "monowm",
-   "url": "https://github.com/endlevell/monowm",
-   "text": "A lightweight Wayland compositor with dwindle tiling and infinite canvas workspaces.",
-   "fork": false,
-   "stars": 7,
-   "language": "C",
    "topics": []
   },
   {
